@@ -1,0 +1,2 @@
+e-cidade-2018-2-demo.sql filter=lfs diff=lfs merge=lfs -text
+e-cidade-2018-2-schema.sql filter=lfs diff=lfs merge=lfs -text
